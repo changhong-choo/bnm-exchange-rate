@@ -4,3 +4,5 @@
 3. [BNM Open API FAQ](https://apikijangportal.bnm.gov.my/faq)
 4. [A Case Study in Deploying a Data Project](https://www.fstep.org.my/wp-content/uploads/2020/12/A-Case-Study-in-Deploying-a-Data-Project.pdf)
 5. [Excel Refresh Data with Python](https://stackoverflow.com/questions/46640552/excel-power-query-data-refresh-via-python)
+6. [Python Package - Excel2Img](https://github.com/glexey/excel2img)
+7. [Python Error - (-2147221008, 'CoInitialize has not been called.', None, None)](https://stackoverflow.com/questions/61071022/pywintypes-com-error-2147221008-coinitialize-has-not-been-called-none-n)
