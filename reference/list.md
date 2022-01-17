@@ -6,3 +6,5 @@
 5. [Excel Refresh Data with Python](https://stackoverflow.com/questions/46640552/excel-power-query-data-refresh-via-python)
 6. [Python Package - Excel2Img](https://github.com/glexey/excel2img)
 7. [Python Error - (-2147221008, 'CoInitialize has not been called.', None, None)](https://stackoverflow.com/questions/61071022/pywintypes-com-error-2147221008-coinitialize-has-not-been-called-none-n)
+8. [Embedded image into email with Python - 920910](https://stackoverflow.com/questions/920910/sending-multipart-html-emails-which-contain-embedded-images)
+9. [Embedded image into email with Python - 7755501](https://stackoverflow.com/questions/7755501/embed-picture-in-email)
