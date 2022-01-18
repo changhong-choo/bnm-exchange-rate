@@ -8,6 +8,7 @@ The overall process is as follow:
 3. Send the content to receipients by email.
 
 ***Email content screenshot for data in Nov-2021:***  
+
 ![](https://github.com/changhong-choo/bnm-exchange-rate/blob/main/image/emailcontent_screenshot.png)
 
 # Steps to complete before run the program
