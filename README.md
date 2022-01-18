@@ -7,7 +7,7 @@ The overall process is as follow:
 2. Excel Power Query transform the data into the required format.
 3. Send the content to receipients by email.
 
-***Email content screenshot:***
+***Email content screenshot for data in Nov-2021:***  
 ![](https://github.com/changhong-choo/bnm-exchange-rate/blob/main/image/emailcontent_screenshot.png)
 
 # Steps to complete before run the program
