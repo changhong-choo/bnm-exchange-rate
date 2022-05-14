@@ -78,6 +78,7 @@ copy_range = ...
 
 sender = ...
 receivers = [..., ...]
+name = 'your name
 sender_pw = ...
 
 
@@ -93,7 +94,7 @@ def send_email():
     
     msg = MIMEMultipart()
     msg['Subject'] = f'Forex rate {year}-{month}'
-    msg['From'] = sender
+    msg['From'] = name
     msg['To'] = ','.join(receivers)
     
     msgAlternative = MIMEMultipart('alternative')
